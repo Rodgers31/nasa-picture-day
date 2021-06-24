@@ -11,7 +11,7 @@ padding: 10px;
 export default function Home (){
     return (
         <TakePic>
-            <Link to="/nasaphoto"> Picture of the day!</Link>
+            <Link to="/nasaphoto"> Picture of the day! <h4>Made by: Rodgers Otieno</h4></Link>
         </TakePic>
     );
 }
