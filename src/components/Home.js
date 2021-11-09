@@ -32,7 +32,7 @@ export default function Home() {
       <App />
       <Link to='/nasaphoto'>
         <div>
-          <h1>Click: Picture of the day!</h1>
+          <h1>Click: Nasa Picture of the day!</h1>
         </div>
       </Link>
       <div>
